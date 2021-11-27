@@ -32,7 +32,7 @@ nav{
 }
 
 .menu-horizontal > li:hover{
-    background-color: #FFCA03;
+    background-color:#FFCA03;
 }
 
 .menu-vertical{
@@ -48,15 +48,14 @@ nav{
 }
 
 .menu-vertical li:hover{
-    background-color: #FFC315;
+    background-color: #FFCA03;
 }
 
 .menu-vertical li a{
     display: block;
     color: white;
-    padding: 10px 10px 10px 15px;
+    padding: 15px 15px 15px 20px;
     text-decoration: none;
-
 }
 
 div{
